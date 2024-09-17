@@ -1,3 +1,45 @@
-Nessa parte dos meus estudos em Java, foi proposto o desenvolvimento de um jogo de xadrez, aplicando todos os conhecimentos adquiridos até então. Com uma lógica bem mais complexa do que eu vinha tendo contato, desenvolvi esse programa que simula uma partida de xadrez, utlizando as características da POO que aprendi até esse momento do curso, como herança, polimorfismo, encapsulamento, abstração, overriding, tratamento de exceções, sobrecarga e estrutura de dados, como matrizes e listas.
+# Chess System
 
-In this part of my studies in Java, the development of a chess game was proposed, applying all the knowledge acquired until then. With a much more complex logic than I had been exposed to, I developed this program that simulates a chess match, using the OOP characteristics that I had learned up to this point in the course, such as inheritance, polymorphism, encapsulation, abstraction, overriding, exception handling , overloading and data structures such as matrices and lists.
+# Sobre o projeto
+
+O Chess System é uma aplicação de console desenvolvida em Java que simula um sistema de xadrez. O projeto tem como objetivo ensinar conceitos avançados de programação orientada a objetos (POO), utilizando um jogo popular para demonstrar a interação entre classes, herança, polimorfismo e outras estruturas da linguagem.
+
+## Layout console
+![Console](https://github.com/joaov7r/assets/blob/main/pics/chess-system-consolepic.png) 
+
+# Tecnologias utilizadas
+
+- Java – Linguagem principal do projeto.
+- POO – Programação orientada a objetos com foco em herança, encapsulamento e polimorfismo.
+
+# Como executar o projeto
+
+## Pré-requisitos
+
+- Java 17
+
+```bash
+# Clonar o repositório
+git clone https://github.com/joaov7r/chess-system.git
+
+# Navegar até o diretório do projeto
+cd chess-system
+
+# Navegar até o diretório onde o código-fonte está localizado
+cd src
+
+# Compilar o código-fonte
+javac -d ../bin app/Program.java
+
+# Voltar ao diretório principal do projeto
+cd ..
+
+# Executar a aplicação
+java -cp bin app.Program
+```
+
+# Autor
+
+João Vitor Cordeiro Lopes
+
+https://www.linkedin.com/in/wmazoni
