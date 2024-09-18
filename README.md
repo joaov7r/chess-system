@@ -42,4 +42,4 @@ java -cp bin app.Program
 
 João Vitor Cordeiro Lopes
 
-https://www.linkedin.com/in/wmazoni
+https://www.linkedin.com/in/joaovitorcl
