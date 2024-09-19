@@ -4,6 +4,9 @@
 
 O Chess System é uma aplicação de console desenvolvida em Java que simula um sistema de xadrez. O projeto tem como objetivo ensinar conceitos avançados de programação orientada a objetos (POO), utilizando um jogo popular para demonstrar a interação entre classes, herança, polimorfismo e outras estruturas da linguagem.
 
+## Modelo conceitual
+![Modelo Conceitual](https://github.com/joaov7r/assets/blob/main/pics/chess-system-domainmodel.png)
+
 ## Layout console
 ![Console](https://github.com/joaov7r/assets/blob/main/pics/chess-system-consolepic.png) 
 
